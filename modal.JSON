@@ -1,0 +1,14 @@
+{
+  "patient": {
+    "name": "ETHAN WONG",
+    "personalInfo": "Male, 60 yrs (Senior Citizen)",
+    "residence": "Malaysia",
+    "ID": "5321344",
+    "visitedId": "2735678",
+    "ward": "Ward 2A",
+    "bed": "Single Bed",
+    "payor": "AIA BHD (INDIVIDUAL)",
+    "doctor1": "Ratha AP",
+    "doctor2": "Jim Chin"
+  }
+}
